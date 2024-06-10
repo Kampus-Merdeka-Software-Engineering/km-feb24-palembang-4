@@ -336,7 +336,7 @@ header .text .team{
     }
 }
 
-@media only screen and (max-width: 412px) {
+@media only screen and (max-width: 430px) {
     .navigasi {
         height: 50px;
         padding: 0 10px;
